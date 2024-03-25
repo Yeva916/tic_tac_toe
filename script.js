@@ -92,3 +92,6 @@ document.getElementsByClassName("reset")[0].addEventListener("click", () => {
   over = false;
   victory = false;
 });
+
+
+// i am very happy that i finally abled to merge a pull request
