@@ -26,6 +26,7 @@ nav ul {
   grid-template-columns: repeat(3, 10vw);
   position: relative;
 }
+/* properties of the box */
 .box {
   border: 2px solid black;
   display: flex;
